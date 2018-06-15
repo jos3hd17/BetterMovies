@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "better-movies": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://prueba:hola123@ds159840.mlab.com:59840/better-movies",
+    "database": "",
+    "password": "",
+    "name": "better-movies",
+    "user": "",
+    "connector": "mongodb"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Movie",
+  "plural": "Movies",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "lenght": {
+      "type": "string"
+    },
+    "genre": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
